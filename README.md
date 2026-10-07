@@ -16,15 +16,21 @@ I was selected from 3,000+ applicants for the **Break Through Tech AI/ML Fellows
 
 ### 💼 Experience
 
-**AI/ML Fellow** — Break Through Tech, Cornell Tech *(2026 – Present)*
-- Selected from 3,000+ applicants for a year-long intensive ML fellowship; building ML models for marketing with Witomni
+**Machine Learning Intern** — witOmni *(Aug 2026 – Present)*
+- Processing 500K+ rows of retail data with Pandas and K-means clustering, segmenting customers into 4 groups validated with silhouette scores
+- Collaborating with a 6-person team over GitHub and Colab, applying Agile practices to iterate on feature selection and model accuracy
+
+**AI/ML Fellow** — Break Through Tech, Cornell Tech *(May 2026 – Present)*
+- Selected from 3,000+ applicants for a year-long intensive on training and refining generative AI models
+- Engineered features for a binary income-classification model (UCI Adult dataset), reaching 85.1% accuracy and 65.4% F1
+- Built a multi-agent RAG pipeline for automated pitch coaching, grounded in a custom MCP server exposing the company playbook
 
 **Software Engineering Fellow** — Google x BASTA Code2Career *(Fall 2026)*
-- Selected for 1:1 mentorship with a Google Software Engineer
-- Optimized DSA solutions through active code review and technical interview coaching
+- 1:1 mentorship with a Google Software Engineer: code reviews, debugging, and technical interview coaching
+- Solved 100+ data structures and algorithms challenges, hitting top-10% runtime through iterative optimization
 
-**Industry Immersion Experience – AI** — John Jay College *(Jan 2026 – Present)*
-- Engineered an n8n workflow to automate incident response, processing SIEM event logs with real-time alerts
+**Industry Immersion Experience – AI** — John Jay College *(Jan 2026 – May 2026)*
+- Engineered a vulnerability alerting service that polls the NVD API and cross-references new CVEs against each user's tech stack
 - Built a threat intelligence RAG pipeline using Flowise and Groq for IoC extraction and refinement
 - Applied HuggingFace BERT NLP sentiment analysis to flag and prioritize critical threats
 
