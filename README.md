@@ -101,10 +101,3 @@ I was selected from 3,000+ applicants for the **Break Through Tech AI/ML Fellows
 
 I go to a college best known for criminal justice and criminology — and ended up writing encryption algorithms and threat intelligence pipelines. Closer to the same thing than you'd think.
 
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bananadonn/bananadonn/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bananadonn/bananadonn/output/github-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bananadonn/bananadonn/output/github-snake.svg" />
-</picture>
