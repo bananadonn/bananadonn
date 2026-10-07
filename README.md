@@ -1,10 +1,18 @@
 # Hey, I'm Donald! 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=AI%2FML+Fellow+%40+Cornell+Tech;Security-minded+builder;Full-stack+developer)](https://git.io/typing-svg)
+
 I'm a Computer Science and Information Security student at John Jay College of Criminal Justice. I love building things at the intersection of security, AI, and full-stack development — whether that's a cryptographic password manager, a real-time computer vision app, or an automated threat intelligence pipeline.
 
 I was selected from 3,000+ applicants for the **Break Through Tech AI/ML Fellowship at Cornell Tech**, where I'm deepening my foundations in machine learning and working on industry projects. I'm also a **Google x BASTA Software Engineering Fellow**, working 1:1 with a Google SWE to sharpen my problem-solving and interview performance. Most recently, through my **AI Industry Immersion Experience at John Jay**, I've been building out a threat intelligence automation pipeline using n8n, Flowise, Groq, and HuggingFace BERT for real-time IoC extraction and threat triage.
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bananadonn&show_icons=true&theme=transparent&hide_border=true" alt="Donald's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bananadonn&layout=compact&theme=transparent&hide_border=true" alt="Top languages" height="165" />
+</div>
+
 ---
+
 
 ### 💼 Experience
 
@@ -61,15 +69,11 @@ I was selected from 3,000+ applicants for the **Break Through Tech AI/ML Fellows
 
 ### 🛠️ Tech Stack
 
-**Languages:** Python, JavaScript, TypeScript
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,expo,fastapi,django,nodejs,supabase,docker,git,github,tailwind&perline=14" alt="Tech stack" />
+</div>
 
-**AI / ML:** YOLOv8, HuggingFace Transformers, BERT, RAG, Flowise, Groq
-
-**Web & Mobile:** Next.js, React Native, Expo, FastAPI, Django, Node.js, discord.js
-
-**Tools & Platforms:** Supabase, n8n, Git, GitHub, Tailwind CSS / NativeWind
-
-**Security:** AES-256-GCM, scrypt KDF, MITRE ATT&CK, SIEM log analysis
+**Also in the toolbox:** YOLOv8, HuggingFace Transformers, BERT, RAG, Flowise, Groq, n8n, discord.js, NativeWind, AES-256-GCM, scrypt, MITRE ATT&CK, SIEM log analysis
 
 ---
 
@@ -96,3 +100,11 @@ I was selected from 3,000+ applicants for the **Break Through Tech AI/ML Fellows
 ### ⚡ Fun Fact
 
 I go to a college best known for criminal justice and criminology — and ended up writing encryption algorithms and threat intelligence pipelines. Closer to the same thing than you'd think.
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bananadonn/bananadonn/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bananadonn/bananadonn/output/github-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bananadonn/bananadonn/output/github-snake.svg" />
+</picture>
