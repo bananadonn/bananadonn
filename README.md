@@ -48,6 +48,18 @@ I was selected from 3,000+ applicants for the **Break Through Tech AI/ML Fellows
 
 ---
 
+### 🚧 In Progress
+
+| Project | What it is |
+|---|---|
+| [AgentDaemon](https://github.com/bananadonn/AgentDaemon) | Local daemon giving an AI assistant secure access to a home PC: files, GPU, long-running processes |
+| [Ponder](https://github.com/bananadonn/Ponder) | Journaling app with a vector database for RAG-powered retrieval and reflection |
+| [SleepCode](https://github.com/bananadonn/SleepCode) | Sleep enforcement app: go to sleep or do LeetCode |
+| ProxyMate *(private)* | AI security proxy for LLM apps: traffic interception, logging, prompt-injection detection |
+| Witomni *(team project)* | ML models for marketing with the Cornell Tech fellowship team |
+
+---
+
 ### 🛠️ Tech Stack
 
 **Languages:** Python, JavaScript, TypeScript
