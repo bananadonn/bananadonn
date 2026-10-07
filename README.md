@@ -8,10 +8,10 @@ I was selected from 3,000+ applicants for the **Break Through Tech AI/ML Fellows
 
 ### 💼 Experience
 
-**Incoming AI/ML Fellow** — Break Through Tech, Cornell Tech *(Expected May 2026)*
-- Selected from 3,000+ applicants for a year-long intensive ML fellowship focused on foundations and industry projects
+**AI/ML Fellow** — Break Through Tech, Cornell Tech *(2026 – Present)*
+- Selected from 3,000+ applicants for a year-long intensive ML fellowship; building ML models for marketing with Witomni
 
-**Software Engineering Fellow** — Google x BASTA *(Feb 2026 – Present)*
+**Software Engineering Fellow** — Google x BASTA Code2Career *(Fall 2026)*
 - Selected for 1:1 mentorship with a Google Software Engineer
 - Optimized DSA solutions through active code review and technical interview coaching
 
@@ -25,6 +25,8 @@ I was selected from 3,000+ applicants for the **Break Through Tech AI/ML Fellows
 ### ⭐ Featured Projects
 
 #### 🤖 JumboVision — Real-Time Vision Assistant for the Visually Impaired
+*Team hackathon project — built with collaborators.*
+
 **What I Did:** Built the core backend pipeline for a hackathon accessibility tool that helps visually impaired users understand their surroundings in real time. I set up the WebSocket connection between the Next.js frontend and a FastAPI backend, integrated YOLOv8n for live object detection, and engineered the spatial reasoning logic that converts detections into natural-language descriptions (e.g., *"there's a chair on your left, close to you"*) relayed back to the user via text-to-speech.
 
 **Tools:** `Python` `FastAPI` `YOLOv8n` `WebSockets` `Next.js` `TypeScript` `Web Speech API`
@@ -52,7 +54,7 @@ I was selected from 3,000+ applicants for the **Break Through Tech AI/ML Fellows
 
 **AI / ML:** YOLOv8, HuggingFace Transformers, BERT, RAG, Flowise, Groq
 
-**Web & Mobile:** Next.js, React Native, Expo, FastAPI, Node.js, discord.js
+**Web & Mobile:** Next.js, React Native, Expo, FastAPI, Django, Node.js, discord.js
 
 **Tools & Platforms:** Supabase, n8n, Git, GitHub, Tailwind CSS / NativeWind
 
@@ -69,6 +71,7 @@ I was selected from 3,000+ applicants for the **Break Through Tech AI/ML Fellows
 | [Talking-Stick-Bot](https://github.com/bananadonn/Talking-Stick-Bot) | Discord bot for admin-moderated voice channel discussions | Node.js, discord.js |
 | [SimpleLogger](https://github.com/bananadonn/SimpleLogger) | Mobile workout tracker with split management | React Native, Expo, Supabase |
 | [IIE-John-Jay](https://github.com/bananadonn/IIE-John-Jay) | AI & cybersecurity capstone — RAG pipelines, automation, threat intelligence | Python, Flowise, n8n |
+| [Echoes](https://github.com/bananadonn/Echoes_Hack_Brooklyn) | Location-based audio storytelling for NYC, built in 48 hours | JavaScript |
 
 ---
 
