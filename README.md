@@ -54,7 +54,6 @@ I was selected from 3,000+ applicants for the **Break Through Tech AI/ML Fellows
 |---|---|
 | [AgentDaemon](https://github.com/bananadonn/AgentDaemon) | Local daemon giving an AI assistant secure access to a home PC: files, GPU, long-running processes |
 | [Ponder](https://github.com/bananadonn/Ponder) | Journaling app with a vector database for RAG-powered retrieval and reflection |
-| [SleepCode](https://github.com/bananadonn/SleepCode) | Sleep enforcement app: go to sleep or do LeetCode |
 | ProxyMate *(private)* | AI security proxy for LLM apps: traffic interception, logging, prompt-injection detection |
 | Witomni *(team project)* | ML models for marketing with the Cornell Tech fellowship team |
 
@@ -84,6 +83,7 @@ I was selected from 3,000+ applicants for the **Break Through Tech AI/ML Fellows
 | [SimpleLogger](https://github.com/bananadonn/SimpleLogger) | Mobile workout tracker with split management | React Native, Expo, Supabase |
 | [IIE-John-Jay](https://github.com/bananadonn/IIE-John-Jay) | AI & cybersecurity capstone — RAG pipelines, automation, threat intelligence | Python, Flowise, n8n |
 | [Echoes](https://github.com/bananadonn/Echoes_Hack_Brooklyn) | Location-based audio storytelling for NYC, built in 48 hours | JavaScript |
+| [SleepCode](https://github.com/bananadonn/SleepCode) | Bedtime enforcer for Windows: solve the LeetCode daily to unlock your apps | Python |
 
 ---
 
